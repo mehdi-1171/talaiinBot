@@ -1,6 +1,7 @@
 import asyncio
 import telegram
 from dotenv import load_dotenv
+import os
 
 from get_data import GoldPriceFetcher
 
