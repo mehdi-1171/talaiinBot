@@ -6,7 +6,7 @@ import os
 from get_data import GoldPriceFetcher
 
 
-load_dotenv()
+load_dotenv(".env")
 
 
 class GoldTelegramBot:
